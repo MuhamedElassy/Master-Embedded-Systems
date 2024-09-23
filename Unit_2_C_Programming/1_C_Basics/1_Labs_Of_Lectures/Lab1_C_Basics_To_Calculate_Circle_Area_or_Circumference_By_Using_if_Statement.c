@@ -1,9 +1,8 @@
 /*
  ============================================================================
  Name        : Lab_1_C_Basics_To_Calculate_Circle_Area_or_Circumference.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
+ Author      : Mohamed Elassy
+ Created on  : September 21, 2024
  Description : Hello World in C, Ansi-style
  ============================================================================
  */

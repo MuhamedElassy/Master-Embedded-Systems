@@ -20,7 +20,7 @@ int main(void) {
 	Min=(a>=b)?b:a;
 	printf("The Minimun Number is : %f",Min);
 	// To Get The Maximum Number
-    printf("Please Enter Another Two Numbers : \r\n");
+        printf("\r\nPlease Enter Another Two Numbers : \r\n");
 	fflush(stdout);
 	scanf("%f %f",&c, &d);
 	fflush(stdout);

@@ -2,8 +2,7 @@
  ============================================================================
  Name        : Lab_13_Comparing_Two_Strings.c
  Author      : Mohamed Elassy
- Version     :
- Copyright   : 
+ Created on  : October 7, 2024
  Description : Hello World in C, Ansi-style
  ============================================================================
  */

@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : Ex_1_Example_of_Multidimensional_Array_in_C.c
+ Name        : EX_1_Example_of_Multidimensional_Array_in_C.c
  Author      : Mohamed Elassy
  Created on  : October 7, 2024
  Description : Hello World in C, Ansi-style
